@@ -6,8 +6,7 @@ Welcome to my repository! This submission is for the **Cynaptics Club Inductions
 
 - **Author:** Amrutansh Gupta  
 - **Department:** MEMS (Metallurgical Engineering & Material Science)  
-- **Roll No.:** 230005004  
-- **Institution:** IIT [Your Campus]  
+- **Roll No.:** 230005004 
 
 ## 🔍 About This Repository
 
